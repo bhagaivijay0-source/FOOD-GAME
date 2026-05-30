@@ -1,0 +1,6 @@
+{
+  "name": "Street Food Smash",
+  "description": "An exciting, vibrant Indian Street Food Festival themed Match-3 game with cascading combos, special powerups, and festive achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
